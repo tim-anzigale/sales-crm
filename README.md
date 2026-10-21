@@ -1,4 +1,4 @@
-# Kargul Starter
+# Sales CRM
 
 Next.js 16 + React 19 + Tailwind CSS 4 boilerplate. Read `CONVENTIONS.md` before writing any component, section, or page — it is the whole spec for how this repo is built.
 
